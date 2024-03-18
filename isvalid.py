@@ -1,6 +1,6 @@
 
-remeth={"newAnh":"Image based",
-        "medium":"Graph based",
+remeth={"image":"Image based",
+        "graph":"Graph based",
         "multicol":"Average color based",
         "stdcol":"Color variance based",
         "avgcol":"Brightness based"
